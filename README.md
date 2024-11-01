@@ -34,3 +34,8 @@ git clone https://github.com/avinash-8-tech/SKINNYDIPPED-WEB.git
 
 # Output
  ❗Please note that the video size displayed is compressed due to GitHub's limitations on file sizes and formats.
+
+
+
+https://github.com/user-attachments/assets/db0fccf7-312c-4f8a-abf0-f5a37b1fccba
+
